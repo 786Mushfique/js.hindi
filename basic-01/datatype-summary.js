@@ -35,3 +35,25 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+// **************************************************************************************
+ 
+let myYoutubename = "hiteshchoudraydotcom";
+let anothername = myYoutubename;
+
+anothername = "chaiAurcode"
+
+console.log(myYoutubename)
+console.log(anothername)
+
+let userone = {
+    email: "user@google.com",
+    upi : "user@ybl"
+}
+
+let userTwo = userone;
+userTwo.email = "hitesh@google.com";
+
+console.log(userone);
+console.log(userTwo);
