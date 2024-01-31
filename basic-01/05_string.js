@@ -16,6 +16,7 @@ const gameName = new String('hitesh-hc-com')
 console.log(gameName.charAt(2));
 console.log(gameName.indexOf('t'));
 
+// declearation of string 
 const newString = gameName.substring(0, 4)
 console.log(newString);
 
