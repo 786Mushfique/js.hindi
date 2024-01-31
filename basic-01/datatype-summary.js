@@ -38,7 +38,7 @@ console.log(typeof anotherId);
 
 
 // **************************************************************************************
- 
+ // stack(primitive), heap(non premitive)
 let myYoutubename = "hiteshchoudraydotcom";
 let anothername = myYoutubename;
 
