@@ -1,4 +1,4 @@
-// const tinderUser = new object()
+// const tinderUser = new Object()
 
 const tinderUser = {}
 
